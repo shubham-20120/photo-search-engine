@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photo-search-engine/static/css/main.1bcda43e.chunk.css",
+    "main.js": "/photo-search-engine/static/js/main.d1691f7c.chunk.js",
+    "main.js.map": "/photo-search-engine/static/js/main.d1691f7c.chunk.js.map",
+    "runtime-main.js": "/photo-search-engine/static/js/runtime-main.a61fcfd1.js",
+    "runtime-main.js.map": "/photo-search-engine/static/js/runtime-main.a61fcfd1.js.map",
+    "static/js/2.afac0274.chunk.js": "/photo-search-engine/static/js/2.afac0274.chunk.js",
+    "static/js/2.afac0274.chunk.js.map": "/photo-search-engine/static/js/2.afac0274.chunk.js.map",
+    "index.html": "/photo-search-engine/index.html",
+    "static/css/main.1bcda43e.chunk.css.map": "/photo-search-engine/static/css/main.1bcda43e.chunk.css.map",
+    "static/js/2.afac0274.chunk.js.LICENSE.txt": "/photo-search-engine/static/js/2.afac0274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a61fcfd1.js",
+    "static/js/2.afac0274.chunk.js",
+    "static/css/main.1bcda43e.chunk.css",
+    "static/js/main.d1691f7c.chunk.js"
+  ]
+}
